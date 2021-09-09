@@ -18,13 +18,13 @@ edges.csv - The connections between the poet-pairs
 
 - **Output data**
 
-FriendGroups.csv
-
-FriendGroupsWithName.csv
-
 exportMST.csv
 
 exportMSTPlus.csv
+
+FriendGroups.csv
+
+FriendGroupsWithName.csv
 
 ## Developers and maintainers
 
