@@ -14,7 +14,7 @@ jupyter notebook version.ipynb - jupyter notebook version of the main program
 
 nodes.csv - The poets
 
-edges.csv - The connections between the poet-pairs
+edges.csv - The connections between the sender-recevier pairs
 
 - **Output data**
 
