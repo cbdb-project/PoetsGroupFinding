@@ -439,7 +439,7 @@ for key in ccDictWithName:
     
 #--------------------------
 
-fgFile = open("FriendGroups5WithName.csv", "w")
+fgFile = open("FriendGroupsWithName.csv", "w")
 writer = csv.writer(fgFile)
 #writer=pd.write_csv(csv_file.csv)
 for key, value in ccDictWithName.items():
