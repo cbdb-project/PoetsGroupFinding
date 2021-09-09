@@ -20,7 +20,7 @@ edges.csv - The connections between the poet-pairs
 
 FriendGroups.csv
 
-FriendGroups5WithName.csv
+FriendGroupsWithName.csv
 
 exportMST.csv
 
