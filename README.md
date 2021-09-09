@@ -32,7 +32,7 @@ FriendGroupsWithName.csv
 
 ## Data
 
-From [CBDB project](https://cbdb.fas.harvard.edu/)
+The communication poems data is from [CBDB project](https://cbdb.fas.harvard.edu/)
 
 ## Copyright
 
