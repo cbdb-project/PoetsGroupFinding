@@ -18,13 +18,13 @@ edges.csv - The connections between the sender-recevier pairs
 
 - **Output data**
 
-exportMST.csv
+exportMST.csv - Social association pairs
 
-exportMSTPlus.csv
+exportMSTPlus.csv - Social association pairs with original ids and names
 
-FriendGroups.csv
+FriendGroups.csv - I suggest you read *FriendGroupsWithName.csv* directly
 
-FriendGroupsWithName.csv
+FriendGroupsWithName.csv - **Primary output file**. It contains the the connected social networks(components) for the people in the Tang dynasty
 
 ## Developers and maintainers
 
